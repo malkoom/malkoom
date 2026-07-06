@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I am a **Video Game Design and Development** stude
 ### 📫 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcos-matutes-rapun-7b84452b0)
-- 🌐 [Portfolio](malkoom.github.io)
+- 🌐 [Portfolio](https://malkoom.github.io)
 - 🎮 [Itch.io](https://malkoom.itch.io)
 - 📧 Email: matutesmarc@gmail.com
 
